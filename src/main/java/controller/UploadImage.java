@@ -12,10 +12,6 @@ import javax.faces.bean.ManagedBean;
 import javax.faces.bean.SessionScoped;
 import javax.servlet.http.Part;
 
-/**
- *
- * @author merchier.damien
- */
 @ManagedBean 
 @SessionScoped 
 public class UploadImage {
